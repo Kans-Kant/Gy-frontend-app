@@ -71,3 +71,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
+### Choice of librairies
+I could choose Angular, or vuejs but instead I chose Reactjs because I am most familiar with.
+
+axios instead of using fetch because for more backwards compatibility Axios seems to work better.
+

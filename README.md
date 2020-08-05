@@ -1,5 +1,5 @@
 
-# Gy-frontend-app
+# Gemography-front-end-app
 coding front-end App challenge
 =======
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -7,6 +7,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
+### 'npm install'
+
+Install the dependencies with this command 'npm install'
 
 ### `npm start`
 
@@ -74,5 +78,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 ### Choice of librairies
 I could choose Angular, or vuejs but instead I chose Reactjs because I am most familiar with.
 
-axios instead of using fetch because for more backwards compatibility Axios seems to work better.
+I chose axios instead of using fetch because for more backwards compatibility Axios seems to work better.
 
